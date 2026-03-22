@@ -1,6 +1,7 @@
 ## Navi PD assignment (quick run)
 
 This repo trains a simple PD model on `type='train'` and scores PDs for `type='oot'`.
+Threshold (the golden number requested): `Threshold used: 0.5103`
 
 ### Setup (use only `navivenv`)
 
